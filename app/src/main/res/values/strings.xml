@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BluetoothLE</string>
+    <string name="texto_relleno">Texto relleno</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="textview">TextView</string>
+    <string name="conectar_cliente">Conectar cliente</string>
 </resources>
